@@ -1,0 +1,9 @@
+{
+  "name": "rsync-deploy",
+  "version": "0.1.0",
+  "description": "deploy your project with rsync",
+  "main": "index.js",
+  "repository": "git@github.com:levinqdl/rsync-deploy.git",
+  "author": "(levinqdl <levinqdl@gmail.com>)",
+  "license": "MIT"
+}
