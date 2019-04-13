@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:levinqdl/rsync-deploy.git",
   "author": "(levinqdl <levinqdl@gmail.com>)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "rsync": "^0.6.1"
+  }
 }
